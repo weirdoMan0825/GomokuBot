@@ -1,4 +1,4 @@
-# GUI-only publication allowlist; unlisted files stay local.
+# Game and training publication allowlist; unlisted files stay local.
 /*
 !/.gitignore
 !/README.md
@@ -12,6 +12,10 @@
 !/policy_value_net.py
 !/heuristic_agent.py
 !/device_utils.py
+!/train_alphazero.py
+!/self_play.py
+!/tactical_positions.py
+!/progress.py
 !/gomoku.mp4
 !/assets/
 /assets/*
